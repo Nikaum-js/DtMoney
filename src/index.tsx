@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { App } from './App';
+
 import { createServer, Model } from 'miragejs'
+
 createServer({
   models: {
     transaction: Model,
@@ -11,29 +13,21 @@ createServer({
     server.db.loadData({
       transactions: [
         {
-        id: 1,
-        title: 'Freelance de website',
-        type: 'deposite',
-        category: 'Dev',
-        amount: 6000,
-        createdAt: new Date('2021-02-12 09:00:00'), 
+          id: 1,
+          title: 'Freelance de website',
+          type: 'deposite',
+          category: 'Dev',
+          amount: 6000,
+          createdAt: new Date('2021-06-25 16:23:44'),
         },
         {
           id: 2,
-          title: 'Aluguel',
+          title: 'Hamburgão',
           type: 'withdraw',
-          category: 'Despesa',
-          amount: 2000,
-          createdAt: new Date('2021-02-02 12:52:21'), 
+          category: 'Comida',
+          amount: 58,
+          createdAt: new Date('2021-07-01 17:26:31'), 
         },
-        {
-            id: 3,
-            title: 'Hamburgão',
-            type: 'withdraw',
-            category: 'Comida',
-            amount: 58,
-            createdAt: new Date('2021-01-01 06:26:31'), 
-        }
       ]
     })
   },
