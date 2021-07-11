@@ -9,18 +9,20 @@
 > 
 ## Linguagens utilizadas
 
-- [SASS](https://sass-lang.com/)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [StyledComponents](https://styled-components.com/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 🚀 Instalando Recriando o Facebook
+## 🚀 Instalando Recriando o DT_Money
 
-Para instalar o LesCone, siga estas etapas:
+Para instalar o DT_Money, siga estas etapas:
 
 Linux, macOS e Windows:
 ```
-git clone https://github.com/Nikolas-as/LesScone.git
+git clone https://github.com/Nikolas-as/DT_Money.git
 
-cd LesScone
+cd DT_Money
 
 npm start
 ```
@@ -32,7 +34,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62979208?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/62979208?v=4" width="100px;" alt="Foto do Nikolas-as no GitHub"/><br>
         <sub>
           <b>Nikolas-as</b>
         </sub>
