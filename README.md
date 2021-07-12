@@ -15,7 +15,7 @@
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Instalando Recriando o DT_Money
+## 🚀 Instalando o DT_Money
 
 Para instalar o DT_Money, siga estas etapas:
 
