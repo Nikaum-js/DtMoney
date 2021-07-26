@@ -25,7 +25,7 @@ git clone https://github.com/Nikolas-as/DT_Money.git
 
 cd DT_Money
 
-npm start
+yarn start
 ```
 ## 🤝 Colaboradores
 
