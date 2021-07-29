@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/DT_Money?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/DT_Money?style=for-the-badge)
 
-<img src="/src/assets/dtmoney.PNG" alt="exemplo imagem">
+<img src="/src/assets/dtmoney.PNG" >
 
 > Esse é um projeto que eu fiz no Ignite da RocketSeat, consiste numa aplicação feita para ajudar as pessoas na hora de fazer as suas finanças pessoas. 
 > 
