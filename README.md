@@ -6,7 +6,8 @@
 <img src="/src/assets/dtmoney.PNG" alt="exemplo imagem">
 
 > Esse é um projeto que eu fiz no Ignite da RocketSeat, consiste numa aplicação feita para ajudar as pessoas na hora de fazer as suas finanças pessoas. 
-> 
+
+
 ## Linguagens utilizadas
 
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
