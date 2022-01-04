@@ -1,4 +1,4 @@
-# DtMoney
+# DTMoney
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/DT_Money?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/DT_Money?style=for-the-badge)
